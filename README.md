@@ -1,4 +1,5 @@
 ### python
+## practical 1 
 # WAP to find the roots of a quadratic equation
      import math
      a = float(input("Enter coficient of x^2 : "))
